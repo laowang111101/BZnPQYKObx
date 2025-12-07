@@ -1,0 +1,2 @@
+# BZnPQYKObx
+本系统是一款基于SpringBoot+Vue的校园志愿者管理系统，主要实现志愿者信息管理、活动发布与报名、服务时长记录等功能。系统通过前后端分离的方式，采用Java语言开发，运行环境支持IDEA或Eclipse VSCode，数据库使用MySQL。前端以Vue和Element-UI为主，后端则基于Spring框架。该系统旨在提高志愿者管理效率，促进校园公益活动的发展。
